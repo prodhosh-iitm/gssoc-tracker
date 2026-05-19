@@ -1,4 +1,4 @@
-# GSSoC PR Tracker
+<h1 align="center">GSSoC PR Tracker</h1>
 
 > Not affiliated with GirlScript Summer of Code or GirlScript Foundation.
 
